@@ -1,0 +1,7 @@
+//! Filtrar en pendientes o completados
+
+//! Obtener el texto de la tarea que escribe el usuario
+
+//! Saber que elemento se selecciona
+
+//! Tachar completados
